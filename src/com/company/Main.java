@@ -16,7 +16,7 @@ public class Main {
         MyInterface myInterface = (s1, s2, s3) -> false;
         methodMain("1", "2", "3", myInterface);
 
-        
+        methodMain("1", "2", "3");
 
     }
 
